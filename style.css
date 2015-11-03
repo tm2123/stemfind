@@ -1,0 +1,73 @@
+/*
+    Document   : style.css
+    Created on : 2015-09-14 10:57 PM
+    Author     : tm2123
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+/* color guide
+
+
+
+ */
+.navbar {
+    background-color: #0597f2;
+}
+
+
+.navbar-brand, .navbar-nav>li>a {
+    color: #f2f2f2;
+    text-shadow: 0 1px 0 rgba(255,255,255,.25);
+}
+
+.navbar-right>li>a:hover {background-color: #f23064 !important;
+ }
+
+h1 {color:yellow;}
+
+.first h2{
+  color:purple 
+}
+
+body {
+    background-color: white;
+}
+/* red #f23064
+blue #0597f2
+white f2f2f2
+green #04bf68 */
+
+
+.red {
+    color: #f23064;
+}
+
+.green {
+    color: #04bf68;
+}
+
+.blue {
+    color: #0597f2;
+}
+
+.white {
+    color: #f2f2f2;
+}
+
+
+
+
+.first
+{background-color:pink;
+}
+
+.second
+{background-color:grey;
+}
+
+.third
+{background-color:green;
+}
+.col{width:25%; float:left;margin:0 3.0%;}
+;
